@@ -26,4 +26,4 @@ I’m passionate about helping organizations stay secure by identifying vulnerab
 
 **Connect with me:**  
 - GitHub: [github.com/nadiansh](https://github.com/nadiansh)  
-- LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/nadiansh)  
+- LinkedIn: [linkedin.com/in/nadiansh](www.linkedin.com/in/nadiansh)  
