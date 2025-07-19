@@ -21,7 +21,12 @@ Initiative (CCI) – Cybersecurity traineeship program
 **Projects & Labs:**  
 - <a href="https://github.com/nadiansh/Cybersecurity-Home-Lab-Environment">Cybersecurity Home Lab</a>
 - Active Directory Lab 
-  
+
+**CTF Writeups**
+-<a href="https://github.com/nadiansh/Bloomberg-Hackathon-CTF-/tree/main">Bloomberg Hackathon (CTF)</a>
+
+
+
 **Certifications & Training:**  
 - CompTIA A+
 - CompTIA Network+
