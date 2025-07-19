@@ -27,5 +27,4 @@ I’m passionate about helping organizations stay secure by identifying vulnerab
 - Gain hands-on experience in cybersecurity labs  
 
 **Connect with me:**  
-- GitHub: [github.com/nadiansh](https://github.com/nadiansh)  
-- LinkedIn: [linkedin.com/in/nadiansh](https://www.linkedin.com/in/nadiansh)  
+<a href="https://linkedin.com/in/nadiansh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
