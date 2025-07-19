@@ -3,8 +3,14 @@
 # Nadia H.A. 
 
 **About Me:**  
-I am currently training to become a **Cybersecurity Analyst**, focusing on building strong skills in threat detection, risk assessment, and incident response. 
-I’m passionate about helping organizations stay secure by identifying vulnerabilities and supporting proactive security operations.
+As a dedicated cybersecurity professional with strong analytical and problem-solving skills, I am transitioning into the tech industry with a clear mission to protect systems from
+cyberattacks. I am currently expanding my technical expertise and gaining industry insights through The Knowledge House Innovation Fellowship – Cybersecurity Track and The Commonwealth Cyber
+Initiative (CCI) – Cybersecurity traineeship program
+
+
+
+
+
 
 **Skills:**   
 - Programming Languages: Python (Beginner), SQL (Beginner)
