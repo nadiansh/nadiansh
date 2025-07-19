@@ -2,7 +2,8 @@
 
 # Nadia H.A. 
 
-**About Me:**  
+**About Me:**
+
 As a dedicated cybersecurity professional with strong analytical and problem-solving skills, I am transitioning into the tech industry with a clear mission to protect systems from
 cyberattacks. I am currently expanding my technical expertise and gaining industry insights through The Knowledge House Innovation Fellowship – Cybersecurity Track and The Commonwealth Cyber
 Initiative (CCI) – Cybersecurity traineeship program
