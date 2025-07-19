@@ -20,6 +20,7 @@ I’m passionate about helping organizations stay secure by identifying vulnerab
 - CompTIA Network+
 - CompTIA Security+
 - CompTIA Cloud+
+- SC-900
     
 **Next Steps:**  
 - Build a portfolio showcasing security projects  
