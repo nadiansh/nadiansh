@@ -20,10 +20,11 @@ Initiative (CCI) – Cybersecurity traineeship program
 
 **Projects & Labs:**  
 - <a href="https://github.com/nadiansh/Cybersecurity-Home-Lab-Environment">Cybersecurity Home Lab</a>
-- Active Directory Lab 
+- Active Directory Lab
+- 
 
 **CTF Writeups**
--<a href="https://github.com/nadiansh/Bloomberg-Hackathon-CTF-/tree/main">Bloomberg Hackathon (CTF)</a>
+- <a href="https://github.com/nadiansh/Bloomberg-Hackathon-CTF-/tree/main">Bloomberg Hackathon (CTF)</a>
 
 
 
