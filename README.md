@@ -1,6 +1,6 @@
 ## Aspiring Cybersecurity Professional
 
-# [Nadia H.A.]  
+# Nadia H.A. 
 
 **About Me:**  
 I am currently training to become a **Cybersecurity Analyst**, focusing on building strong skills in threat detection, risk assessment, and incident response. 
