@@ -10,24 +10,21 @@ I’m passionate about helping organizations stay secure by identifying vulnerab
 - Security Frameworks: NIST, CIS Controls, ISO 27001   
 - Hands-on Labs: Wireshark, pfSense, Snort, Nmap/Zenmap
 
- **Projects & Labs:**  
+**Projects & Labs:**  
 - Active Directory Lab 
 - Cybersecurity Home Lab
   
-
 **Certifications & Training:**  
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Security+
 - CompTIA Cloud+
     
-
- **Next Steps:**  
+**Next Steps:**  
 - Build a portfolio showcasing security projects  
 - Develop foundational scripting skills in Python & Bash  
 - Gain hands-on experience in cybersecurity labs  
 
- **Connect with me:**  
+**Connect with me:**  
 - GitHub: [github.com/nadiansh](https://github.com/nadiansh)  
 - LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/nadiansh)  
--->
