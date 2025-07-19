@@ -42,7 +42,4 @@ Initiative (CCI) – Cybersecurity traineeship program
 
 
 
-<a href="https://buymeacoffee.com/nadiansh"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black" /></a>
-
-
 
