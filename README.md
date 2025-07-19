@@ -22,13 +22,10 @@ I’m passionate about helping organizations stay secure by identifying vulnerab
 - CompTIA Cloud+
 - SC-900
     
-**Next Steps:**  
-- Build a portfolio showcasing security projects  
-- Gain hands-on experience in cybersecurity labs  
 
 **Connect with me:**  
 
- <a href="https://linkedin.com/in/nadiansh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
+<a href="https://linkedin.com/in/nadiansh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
 <a href="https://github.com/nadiansh"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
 
 
