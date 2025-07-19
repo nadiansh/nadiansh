@@ -28,4 +28,5 @@ I’m passionate about helping organizations stay secure by identifying vulnerab
 
 **Connect with me:**  
 
-- <a href="https://linkedin.com/in/nadiansh"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://linkedin.com/in/nadiansh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
+
