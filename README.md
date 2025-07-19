@@ -13,12 +13,13 @@ I’m passionate about helping organizations stay secure by identifying vulnerab
 
 **Projects & Labs:**  
 - Active Directory Lab 
-- Cybersecurity Home Lab
+- Cybersecurity Home Lab <a href="(https://github.com/nadiansh/Cybersecurity-Home-Lab-Environment)">Cybersecurity Home Lab</a>
   
 **Certifications & Training:**  
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Security+
+- 
     
 **Next Steps:**  
 - Build a portfolio showcasing security projects  
