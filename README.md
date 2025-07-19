@@ -6,9 +6,10 @@
 I am currently training to become a **Cybersecurity Analyst**, focusing on building strong skills in threat detection, risk assessment, and incident response. 
 I’m passionate about helping organizations stay secure by identifying vulnerabilities and supporting proactive security operations.
 
-**Skills & Learning Path:**   
-- Security Frameworks: NIST, CIS Controls, ISO 27001   
-- Hands-on Labs: Wireshark, pfSense, Snort, Nmap/Zenmap
+**Skills:**   
+- Programming Languages: Python (Beginner), SQL (Beginner)
+- Operating Systems: Windows, Linux, MacOS
+- Security Tools: Wireshark, pfSense, Snort, Nmap/Zenmap
 
 **Projects & Labs:**  
 - Active Directory Lab 
@@ -22,7 +23,6 @@ I’m passionate about helping organizations stay secure by identifying vulnerab
     
 **Next Steps:**  
 - Build a portfolio showcasing security projects  
-- Develop foundational scripting skills in Python & Bash  
 - Gain hands-on experience in cybersecurity labs  
 
 **Connect with me:**  
