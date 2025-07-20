@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=B131F7&width=435&lines=Hello!%2CThere!+%F0%9F%91%8B;My+name+is+Nadia+;Nice+to+meet+you!+)](https://git.io/typing-svg)
 
 ##
-
 **About Me:**
 
 As a dedicated cybersecurity professional with strong analytical and problem-solving skills, I am transitioning into the tech industry with a clear mission to protect systems from
