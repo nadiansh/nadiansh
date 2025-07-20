@@ -28,10 +28,7 @@ Initiative (CCI) – Cybersecurity traineeship program
 
 
 **Certifications & Training:**  
-- CompTIA A+
-- CompTIA Network+
-- CompTIA Security+
-- CompTIA Cloud+
+- CompTIA A+, Net+, Sec+ & Cloud+
 - SC-900
     
 
