@@ -30,7 +30,7 @@ Initiative (CCI) – Cybersecurity traineeship program
 - SC-900
     
 
-**Connect with me:**  
+**Let's Connect!**  
 
 <a href="https://linkedin.com/in/nadiansh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
 <a href="https://github.com/nadiansh"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
