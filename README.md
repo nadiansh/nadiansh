@@ -12,7 +12,8 @@ Initiative (CCI) – Cybersecurity traineeship program
 
 
 **Skills:**   
-- Programming Languages: Python (Beginner), SQL (Beginner)
+- Languages & Scripting: Python, SQL, HTML/CSS
+- Database: MySQL
 - Operating Systems: Windows, Linux, MacOS
 - Security Tools: Wireshark, pfSense, Snort, Nmap/Zenmap
 
