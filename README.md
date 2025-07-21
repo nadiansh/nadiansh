@@ -8,9 +8,6 @@ Initiative (CCI) – Cybersecurity traineeship program
 
 
 
-
-
-
 **Skills:**   
 - Languages & Scripting: Python, SQL, HTML/CSS
 - Database: MySQL
@@ -19,6 +16,7 @@ Initiative (CCI) – Cybersecurity traineeship program
 
 **Projects & Labs:**  
 - <a href="https://github.com/nadiansh/Cybersecurity-Home-Lab-Environment">Cybersecurity Home Lab</a>
+- <a href="https://github.com/nadiansh/Linux-VM-Cluster">Linux VM Cluster Lab</a>
 - <a href="https://github.com/nadiansh/Active-Directory-Lab">Active Directory Lab</a> (in progress)
 
 **CTF Writeups:**
