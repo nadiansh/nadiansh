@@ -15,8 +15,8 @@ Initiative (CCI) – Cybersecurity traineeship program
 - Security Tools: Wireshark, pfSense, Snort, Nmap/Zenmap
 
 **Projects & Labs:**  
-- <a href="https://github.com/nadiansh/Cybersecurity-Home-Lab-Environment">Cybersecurity Home Lab</a>
 - <a href="https://github.com/nadiansh/Linux-VM-Cluster">Linux VM Cluster Lab</a>
+- <a href="https://github.com/nadiansh/Cybersecurity-Home-Lab-Environment">Cybersecurity Home Lab</a>
 - <a href="https://github.com/nadiansh/Active-Directory-Lab">Active Directory Lab</a> (in progress)
 
 **CTF Writeups:**
