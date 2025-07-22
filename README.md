@@ -3,8 +3,7 @@
 **About Me:**
 
 As a dedicated cybersecurity professional with strong analytical and problem-solving skills, I am transitioning into the tech industry with a clear mission to protect systems from
-cyberattacks. I am currently expanding my technical expertise and gaining industry insights through The Knowledge House Innovation Fellowship – Cybersecurity Track and The Commonwealth Cyber
-Initiative (CCI) – Cybersecurity traineeship program
+cyberattacks. I am currently expanding my technical expertise and gaining industry insights through The Knowledge House Innovation Fellowship – Cybersecurity Track.
 
 
 
@@ -22,13 +21,7 @@ Initiative (CCI) – Cybersecurity traineeship program
 **CTF Writeups:**
 - <a href="https://github.com/nadiansh/Bloomberg-Hackathon-CTF-/tree/main">Bloomberg Hackathon (CTF)</a>
 
-
-
-**Certifications & Training:**  
-- CompTIA A+, Net+, Sec+ & Cloud+
-- SC-900
     
-
 **Let's Connect!**  
 
 <a href="https://linkedin.com/in/nadiansh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
