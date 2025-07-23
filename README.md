@@ -11,7 +11,7 @@ cyberattacks. I am currently expanding my technical expertise and gaining indust
 - Languages & Scripting: Python, SQL, HTML/CSS
 - Database: MySQL
 - Operating Systems: Windows, Linux, MacOS
-- Security Tools: Wireshark, pfSense, Snort, Nmap/Zenmap
+- Tools: Wireshark, pfSense, Snort, Nmap/Zenmap, Burp Suite
 
 **Projects & Labs:**  
 - <a href="https://github.com/nadiansh/Linux-VM-Cluster">Linux VM Cluster Lab</a>
