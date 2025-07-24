@@ -21,6 +21,8 @@ cyberattacks. I am currently expanding my technical expertise and gaining indust
 **CTF Writeups:**
 - <a href="https://github.com/nadiansh/Bloomberg-Hackathon-CTF-/tree/main">Bloomberg Hackathon (CTF)</a>
 
+
+
     
 **Let's Connect!**  
 
@@ -30,3 +32,6 @@ cyberattacks. I am currently expanding my technical expertise and gaining indust
 
 
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiansh&hide_progress=true)
