@@ -34,4 +34,6 @@ cyberattacks. I am currently expanding my technical expertise and gaining indust
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiansh&hide_progress=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiansh&hide_progress=true&bg_color=0d1117&hide_border=true&title_color=c9d1d9&text_color=c9d1d9)
+
