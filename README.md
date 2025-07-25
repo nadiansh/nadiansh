@@ -21,23 +21,28 @@ cyberattacks. I am currently expanding my technical expertise and gaining indust
 🚀 **Projects & Labs**  
 
 <a href="https://github.com/nadiansh/Linux-VM-Cluster">Linux VM Cluster Lab</a>
-- Linux VM Cluster Lab Simulated a distributed environment by provisioning and networking three Ubuntu Server VMs with a dual-network setup, static IPs, and passwordless SSH for inter-node communication.
+
+Linux VM Cluster Lab Simulated a distributed environment by provisioning and networking three Ubuntu Server VMs with a dual-network setup, static IPs, and passwordless SSH for inter-node communication.
 - Skills: Virtualization, Linux Networking, Netplan, SSH, System Administration
 
 <a href="https://github.com/nadiansh/Cybersecurity-Home-Lab-Environment">Cybersecurity Home Lab</a>
-- Cybersecurity Home Lab Set up an isolated cybersecurity home lab environment with vulnerable machines to practice ethical hacking techniques and blue team defense strategies.
+
+Cybersecurity Home Lab Set up an isolated cybersecurity home lab environment with vulnerable machines to practice ethical hacking techniques and blue team defense strategies.
 - Skills: Kali Linux, Wireshark, Nmap, Metasploit, pfSense/Snort, Network Security
 
 <a href="https://github.com/nadiansh/Active-Directory-Lab">Active Directory Lab</a>
-- Active Directory Lab Deployed a Windows Server-based Active Directory domain with user/group policies, DNS, DHCP, and simulated enterprise authentication scenarios.
+
+Active Directory Lab Deployed a Windows Server-based Active Directory domain with user/group policies, DNS, DHCP, and simulated enterprise authentication scenarios.
 - Skills: Windows Server, Active Directory, Group Policy, DNS, DHCP, Identity & Access Management
 
 <a href="https://github.com/nadiansh/Dental-Office-Database/tree/main">MySQL Database Project</a>
-- MySQL Database Project Various MySQL projects showcasing database design, queries, and optimizations.
+
+MySQL Database Project Various MySQL projects showcasing database design, queries, and optimizations.
 - Skills: MySQL, SQL
 
 <a href="https://github.com/nadiansh/Air-Quality-Measures-Analysis">Data Analysis & Visualization</a>
-- Visualizations, and statistical insights using Pandas, NumPy, Seaborn.
+
+Visualizations, and statistical insights using Pandas, NumPy, Seaborn.
 - Skills: Python, Pandas, Seaborn, Data Analysis
 
 
