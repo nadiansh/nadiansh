@@ -69,9 +69,6 @@ Visualizations and statistical insights using Pandas, NumPy, Seaborn.
 
 <a href="https://linkedin.com/in/nadiansh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
 <a href="https://github.com/nadiansh"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
-
-
-
-
+[![Yahoo Mail](https://img.shields.io/badge/Yahoo%20Mail-6001D2?logo=yahoo&logoColor=white)](mailto:nadiansh@yahoo.com)
 
 
