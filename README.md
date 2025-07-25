@@ -35,7 +35,7 @@ cyberattacks. I am currently expanding my technical expertise and gaining indust
 - Skills: MySQL, SQL
 
 <a href="https://github.com/nadiansh/Air-Quality-Measures-Analysis">Data Analysis & Visualization</a>
-- EDA, visualizations, and statistical insights using Pandas, NumPy, Seaborn.
+- Visualizations, and statistical insights using Pandas, NumPy, Seaborn.
 - Skills: Python, Pandas, Seaborn, Data Analysis
 
 
