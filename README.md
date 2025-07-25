@@ -10,10 +10,11 @@ cyberattacks. I am currently expanding my technical expertise and gaining indust
 ##
 
 🛠️  **Skills**   
-- Languages & Scripting: Python, SQL, HTML/CSS
+- Languages & Scripting: Python (Beginner), SQL (Beginner), HTML/CSS
 - Database: MySQL
-- Operating Systems: Windows, Linux, MacOS
-- Tools: Wireshark, pfSense(Snort), Nmap/Zenmap, Burp Suite
+- Operating Systems: Window 10, Windows Server, Linux (Kali/Ubuntu), MacOS
+- Tools: ireshark,pfSense(Snort), Nmap/Zenmap, Jupyter, Burp Suite
+  
 
 
 ##
@@ -28,7 +29,7 @@ Linux VM Cluster Lab Simulated a distributed environment by provisioning and n
 <a href="https://github.com/nadiansh/Cybersecurity-Home-Lab-Environment">Cybersecurity Home Lab</a>
 
 Cybersecurity Home Lab Set up an isolated cybersecurity home lab environment with vulnerable machines to practice ethical hacking techniques and blue team defense strategies.
-- Skills: Kali Linux, Wireshark, Nmap, Metasploit, pfSense/Snort, Network Security
+- Skills: Kali Linux, Wireshark, Nmap, Metasploit, pfSense(Snort), Network Security
 
 <a href="https://github.com/nadiansh/Active-Directory-Lab">Active Directory Lab</a>
 
