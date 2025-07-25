@@ -42,7 +42,7 @@ MySQL Database Project Various MySQL projects showcasing database design, quer
 
 <a href="https://github.com/nadiansh/Air-Quality-Measures-Analysis">Data Analysis & Visualization</a>
 
-Visualizations, and statistical insights using Pandas, NumPy, Seaborn.
+Visualizations and statistical insights using Pandas, NumPy, Seaborn.
 - Skills: Python, Pandas, Seaborn, Data Analysis
 
 
