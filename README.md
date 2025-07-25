@@ -22,7 +22,7 @@ cyberattacks. I am currently expanding my technical expertise and gaining indust
 
 <a href="https://github.com/nadiansh/Linux-VM-Cluster">Linux VM Cluster Lab</a>
 
-Linux VM Cluster Lab Simulated a distributed environment by provisioning and networking three Ubuntu Server VMs with a dual-network setup, static IPs, and passwordless SSH for inter-node communication.
+Linux VM Cluster Lab Simulated a distributed environment by provisioning and networking three Ubuntu Server VMs with a dual-network setup, static IPs and passwordless SSH for inter-node communication.
 - Skills: Virtualization, Linux Networking, Netplan, SSH, System Administration
 
 <a href="https://github.com/nadiansh/Cybersecurity-Home-Lab-Environment">Cybersecurity Home Lab</a>
@@ -33,11 +33,11 @@ Cybersecurity Home Lab Set up an isolated cybersecurity home lab environment w
 <a href="https://github.com/nadiansh/Active-Directory-Lab">Active Directory Lab</a>
 
 Active Directory Lab Deployed a Windows Server-based Active Directory domain with user/group policies, DNS, DHCP, and simulated enterprise authentication scenarios.
-- Skills: Windows Server, Active Directory, Group Policy, DNS, DHCP, Identity & Access Management
+- Skills: Windows Server, Active Directory, Group Policy, DNS, DHCP, Identity and Access Management
 
 <a href="https://github.com/nadiansh/Dental-Office-Database/tree/main">MySQL Database Project</a>
 
-MySQL Database Project Various MySQL projects showcasing database design, queries, and optimizations.
+MySQL Database Project Various MySQL projects showcasing database design, queries and optimizations.
 - Skills: MySQL, SQL
 
 <a href="https://github.com/nadiansh/Air-Quality-Measures-Analysis">Data Analysis & Visualization</a>
