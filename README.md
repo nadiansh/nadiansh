@@ -59,7 +59,7 @@ Visualizations and statistical insights using Pandas, NumPy, Seaborn.
 
 
 🌱 **Currently Exploring**
-- AWS Solutions: Cloud Projects 
+- AWS Solutions (Cloud Projects)
 
  ## 
  
