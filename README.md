@@ -3,20 +3,22 @@
 
 **About Me:**
 
-As a dedicated cybersecurity professional with strong analytical and problem-solving skills, I am transitioning into the tech industry with a clear mission to protect systems from
-cyberattacks. I am currently expanding my technical expertise and gaining industry insights through The Knowledge House Innovation Fellowship – Cybersecurity Track.
+Dedicated cybersecurity professional with strong analytical and problem-solving skills. I am transitioning into the tech industry with a clear mission to protect systems from
+cyberattacks. I am currently expanding my technical expertise and gaining industry insights through The Knowledge House Innovation Fellowship – Cybersecurity Track and The Commonwealth Cyber Initiative (CCI) – Cybersecurity traineeship program 
+
 
 ##
 
-**Skills:**   
+**Skills**   
 - Languages & Scripting: Python, SQL, HTML/CSS
 - Database: MySQL
 - Operating Systems: Windows, Linux, MacOS
 - Tools: Wireshark, pfSense/Snort, Nmap/Zenmap, Burp Suite
 
+
 ##
 
-**Projects & Labs:**  
+**Projects & Labs**  
 
 <a href="https://github.com/nadiansh/Linux-VM-Cluster">Linux VM Cluster Lab</a>
 - Linux VM Cluster Lab Simulated a distributed environment by provisioning and networking three Ubuntu Server VMs with a dual-network setup, static IPs, and passwordless SSH for inter-node communication.
@@ -42,9 +44,17 @@ cyberattacks. I am currently expanding my technical expertise and gaining indust
 
 ##
 
-**CTF Writeups:**
+**CTF Writeups**
 - <a href="https://github.com/nadiansh/Bloomberg-Hackathon-CTF-/tree/main">Bloomberg Hackathon (CTF)</a>
 
+
+
+##
+
+
+
+**Currently Exploring**
+- AWS Solutions: Cloud Projects 
 
  ## 
  
