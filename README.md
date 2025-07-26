@@ -71,5 +71,5 @@ Visualizations and statistical insights using Pandas, NumPy, Seaborn.
 <a href="https://github.com/nadiansh"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
 [![Email](https://img.shields.io/badge/Email-6001D2?logoColor=white&style=flat)](mailto:nadiansh@yahoo.com)
 
-
+[![Yahoo Email](https://img.shields.io/badge/Yahoo_Email-6001D2?logo=yahoo&logoColor=white&style=flat)](mailto:nadiansh@yahoo.com)
 
