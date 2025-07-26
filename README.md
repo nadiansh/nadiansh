@@ -13,7 +13,7 @@ cyberattacks. I am currently expanding my technical expertise and gaining indust
 - Languages & Scripting: Python (Beginner), SQL (Beginner), HTML/CSS
 - Database: MySQL
 - Operating Systems: Windows 10, Windows Server, Linux (Kali/Ubuntu), MacOS
-- Tools: ireshark,pfSense(Snort), Nmap/Zenmap, Jupyter, Burp Suite
+- Tools: Wireshark, pfSense(Snort), Nmap/Zenmap, Jupyter, Burp Suite
   
 
 
