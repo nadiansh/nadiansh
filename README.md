@@ -1,13 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1582F3F8&center=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;My+name+is+Nadia;Nice+to+meet+you!+" alt="Typing SVG" /></a>
 ##
 
-💡 **About Me**
-
-Dedicated cybersecurity professional with strong analytical and problem-solving skills. I am transitioning into the tech industry with a clear mission to protect systems from
-cyberattacks. I am currently expanding my technical expertise and gaining industry insights through The Knowledge House Innovation Fellowship – Cybersecurity Track and The Commonwealth Cyber Initiative (CCI) – Cybersecurity traineeship program 
-
-
-##
 
 🛠️  **Skills**   
 - Languages & Scripting: Python (Beginner), SQL (Beginner), HTML/CSS
