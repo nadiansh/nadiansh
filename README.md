@@ -30,11 +30,7 @@ Active Directory Lab Deployed a Windows Server-based Active Directory domain w
 Cloud-based Red vs Blue Team training environment simulating real-world cyber attacks and automated defenses.
 - Skills: AWS CloudFormation, VPC, IAM, GuardDuty, Security Hub, CloudTrail, Systems Manager
 
-  
-<a href="https://github.com/nadiansh/Linux-VM-Cluster">Linux VM Cluster Lab</a>
 
-Linux VM Cluster Lab Simulated a distributed environment by provisioning and networking three Ubuntu Server VMs with a dual-network setup, static IPs and passwordless SSH for inter-node communication.
-- Skills: Virtualization, Linux Networking, Netplan, SSH, System Administration
 
 <a href="https://github.com/nadiansh/Dental-Office-Database/tree/main">MySQL Database Project</a>
 
