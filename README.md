@@ -1,6 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1582F3F8&center=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;My+name+is+Nadia;Nice+to+meet+you!+" alt="Typing SVG" /></a>
 ##
+💡 **About Me**
 
+I'm an aspiring Cybersecurity Professional with strong analytical and problem-solving skills, committed to safeguarding systems against cyber threats. Currently advancing my technical expertise through The Knowledge House Innovation Fellowship – Cybersecurity Track. Passionate about threat detection, incident response, and securing cloud infrastructures across AWS environments.
+
+##
 
 🛠️  **Skills**   
 - Languages & Scripting: Python (Beginner), SQL (Beginner), HTML/CSS
@@ -68,5 +72,7 @@ Visualizations and statistical insights using Pandas, NumPy, Seaborn.
 [![Profile Views](https://komarev.com/ghpvc/?username=nadiansh&color=007ec6&style=flat)](#)
 <a href="https://github.com/nadiansh"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
 [![Email](https://img.shields.io/badge/Email-6001D2?logoColor=white&style=flat)](mailto:nadiansh@yahoo.com)
+<a href="https://linkedin.com/in/nadiansh"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a> 
+
 
 
