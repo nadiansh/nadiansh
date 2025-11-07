@@ -13,7 +13,6 @@ I'm an aspiring Cybersecurity Professional with strong analytical and problem-so
 - Tools: Wireshark, pfSense(Snort), Nmap/Zenmap, Jupyter, Burp Suite
   
 
-
 ##
 
 🚀 **Projects & Labs**  
@@ -51,16 +50,29 @@ Visualizations and statistical insights using Pandas, NumPy, Seaborn.
 
 
 
+##
+
+**Certifications**  
+
+- CompTIA A+, Net+, Sec+
+
 
 ##
 
-🚩 **CTF Writeups**
-- <a href="https://github.com/nadiansh/Bloomberg-Hackathon-CTF-/tree/main">Bloomberg Hackathon (CTF)</a>
+**CTF Competitions**
+
+<a href="https://github.com/nadiansh/Bloomberg-Hackathon-CTF-/tree/main">Bloomberg Hackathon (CTF)</a>
+- Led a winning team to capture the most flags; solved timed CTF challenges\
+- Built challenge dashboards using DOM scripting; tackled crypto, web, and reverse engineering tasks
+
+SANS BootUp Capture the Flag (CTF)
+- Ranked 73rd globally and Top 20 in the United States among competitors across multiple regions.
+- Awarded a 6-month SANS Skills Quest license by NetWars for outstanding performance in hands-on
+cybersecurity challenges spanning web security, forensics, and cloud defense.
 
 
 
 ##
-
 
 
 🌱 **Currently Exploring**
