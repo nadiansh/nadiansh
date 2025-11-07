@@ -52,14 +52,14 @@ Visualizations and statistical insights using Pandas, NumPy, Seaborn.
 
 ##
 
-**Certifications**  
+📜 **Certifications**  
 
 - CompTIA A+, Net+, Sec+
 
 
 ##
 
-**CTF Competitions**
+🚩 **CTF Competitions**
 
 <a href="https://github.com/nadiansh/Bloomberg-Hackathon-CTF-/tree/main">Bloomberg Hackathon (CTF)</a>
 - Led a winning team to capture the most flags; solved timed CTF challenges\
