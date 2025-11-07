@@ -54,7 +54,7 @@ Visualizations and statistical insights using Pandas, NumPy, Seaborn.
 
 📜 **Certifications**  
 
-- CompTIA A+, Net+, Sec+
+- CompTIA A+, Net+, Sec+, cloud+
 
 
 ##
@@ -62,7 +62,7 @@ Visualizations and statistical insights using Pandas, NumPy, Seaborn.
 🚩 **CTF Competitions**
 
 <a href="https://github.com/nadiansh/Bloomberg-Hackathon-CTF-/tree/main">Bloomberg Hackathon (CTF)</a>
-- Led a winning team to capture the most flags; solved timed CTF challenges\
+- Led a winning team to capture the most flags; solved timed CTF challenges
 - Built challenge dashboards using DOM scripting; tackled crypto, web, and reverse engineering tasks
 
 SANS BootUp Capture the Flag (CTF)
