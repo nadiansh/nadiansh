@@ -2,8 +2,7 @@
 ##
 💡 **About Me**
 
-I'm an aspiring Cybersecurity Professional with strong analytical and problem-solving skills, committed to safeguarding systems against cyber threats. Currently advancing my technical expertise through The Knowledge House Innovation Fellowship – Cybersecurity Track. Passionate about threat detection, incident response, and securing cloud infrastructures across AWS environments.
-
+I'm an aspiring Cybersecurity Professional with strong analytical and problem-solving skills, committed to safeguarding systems against cyber threats. Currently advancing my technical expertise through The Knowledge House Innovation Fellowship – Cybersecurity Track. 
 ##
 
 🛠️  **Skills**   
