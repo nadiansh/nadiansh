@@ -53,7 +53,7 @@ Visualizations and statistical insights using Pandas, NumPy, Seaborn.
 
 📜 **Certifications**  
 
-- CompTIA A+, Net+, Sec+, Cloud+
+- CompTIA A+, Net+, Sec+
 
 
 ##
