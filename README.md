@@ -2,7 +2,9 @@
 ##
 💡 **About Me**
 
-I'm an aspiring Cybersecurity Professional with strong analytical and problem-solving skills, committed to safeguarding systems against cyber threats. Currently advancing my technical expertise through The Knowledge House Innovation Fellowship – Cybersecurity Track. 
+Aspiring cybersecurity professional with a strong interest in protecting systems and data. Has hands-on exposure to cloud platforms and operating systems, supported by an analytical and problem-solving mindset. Holds industry-recognized certifications and continues to build foundational cybersecurity skills through structured training and hands-on learning.
+<img width="468" height="64" alt="image" src="https://github.com/user-attachments/assets/f196657d-9960-4b23-a6dd-44e3b2a09ca3" />
+
 ##
 
 🛠️  **Skills**   
