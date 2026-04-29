@@ -56,7 +56,7 @@ Visualizations and statistical insights using Pandas, NumPy, Seaborn.
 📜 **Certifications**  
 
 - CompTIA A+, Net+, Sec+, Cloud+
-- GIAC GFACT
+- GIAC GFACT GSEC
 - Microsoft SC-900
 
 
